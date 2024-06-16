@@ -1,0 +1,29 @@
+[
+    {
+        "id": "username",
+        "x": 1720,
+        "y": 580,
+        "button": "left",
+        "clicks": 2,
+        "interval": 1,
+        "typingValue": "default_username"
+    },
+    {
+        "id": "password",
+        "x": 1721,
+        "y": 655,
+        "button": "left",
+        "clicks": 2,
+        "interval": 1,
+        "typingValue": "default_password"
+    },
+    {
+        "id": "loginbutton",
+        "x": 1719,
+        "y": 763,
+        "button": "left",
+        "clicks": 2,
+        "interval": 1,
+        "typingValue": ""
+    }
+]
